@@ -6,7 +6,10 @@ GitLens AI is a high-performance, web-based repository explorer that leverages t
 #
 *TRY it NOW(no API key required):*  https://ai-git.replit.app
 ---
-
+<img width="1906" height="1857" alt="image" src="https://github.com/user-attachments/assets/f924e243-be45-404f-8a9d-2c20db549351" />
+<img width="1917" height="2792" alt="image" src="https://github.com/user-attachments/assets/9d609bbc-f7d0-4b86-8d5c-ebd48b4c9bff" />
+<img width="1925" height="2767" alt="image" src="https://github.com/user-attachments/assets/03780e18-db20-4682-9d57-4cfa2f32b484" />
+<img width="1908" height="1636" alt="image" src="https://github.com/user-attachments/assets/36de211c-e3b6-4257-a97f-b15c4c4ff62e" />
 ## 🚀 Core Features
 
 ### 1. **Deep Repository Exploration**
@@ -40,10 +43,7 @@ GitLens AI is a high-performance, web-based repository explorer that leverages t
 - **Utilities**: `html2canvas` for exporting onboarding briefs, `diff` for commit comparisons.
 
 ---
-<img width="1906" height="1857" alt="image" src="https://github.com/user-attachments/assets/f924e243-be45-404f-8a9d-2c20db549351" />
-<img width="1917" height="2792" alt="image" src="https://github.com/user-attachments/assets/9d609bbc-f7d0-4b86-8d5c-ebd48b4c9bff" />
-<img width="1925" height="2767" alt="image" src="https://github.com/user-attachments/assets/03780e18-db20-4682-9d57-4cfa2f32b484" />
-<img width="1908" height="1636" alt="image" src="https://github.com/user-attachments/assets/36de211c-e3b6-4257-a97f-b15c4c4ff62e" />
+
 
 ## ⚙️ Configuration
 
