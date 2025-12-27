@@ -2,7 +2,7 @@
 
 **Architectural Intelligence & Repository Inspector**
 
-GitLens AI is a high-performance, web-based repository explorer that leverages the **Google Gemini 3** series models to provide deep architectural insights, code analysis, and visual representations of any public GitHub repository.
+GitLens AI is a high-performance, web-based repository explorer that leverages the AI models to provide deep architectural insights, code analysis, and visual representations of any public GitHub repository.
 #
 *TRY it NOW(no API key required):*  https://ai-git.replit.app
 ---
